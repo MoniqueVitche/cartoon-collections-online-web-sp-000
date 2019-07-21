@@ -20,5 +20,6 @@ def find_the_cheese(cheese_types)
       return cheese
     else
       return nil
+    end
   end
 end
